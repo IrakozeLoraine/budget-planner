@@ -27,7 +27,7 @@ const Home = () => {
             </div>
         </div>
         <div>
-            <h1 className='my-7 font-bold text-xl'>Expenses</h1>
+            <h1 className='my-7 font-bold text-xl text-center'>Expenses</h1>
             <div className='grid grid-cols-1 md:grid-cols-3'>
                 <div className=''>
                   <ExpenseList />
