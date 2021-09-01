@@ -1,9 +1,16 @@
-# Getting Started with Create React App
+#### More Info
 
-This is a basic simple project for helping you make a good budget plan. It is implemented with reactjs.
-View App Demo on: https://bp-budget-planner.netlify.app
+- This is a basic simple project for helping you make a good budget plan.
+View app demo on: [https://bp-budget-planner.netlify.app]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- The website will be created using create-react-app.
+
+#### Requirements
+
+1. Nodejs installed on your system. Visit [https://nodejs.org] to download and install nodejs on your system.
+2. Basic understanding of React Hooks, fetching data from an API using React Hooks, and displaying the data.
+3. Tailwindcss installed in the workspace. Visit [https://tailwindcss.com/docs/installation] for a more detailed explanation.
+5. Git installed on your system. Visit [https://git-scm.com] to download and install git.
 
 ## Available Scripts
 
