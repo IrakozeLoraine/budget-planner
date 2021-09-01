@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a basic simple project for helping you make a good budget plan. It is implemented with reactjs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
